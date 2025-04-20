@@ -12,3 +12,4 @@ I'm a backend developer, writing mostly in TypeScript with Next.js and Express.j
 ## Other
 
 - Bash scripts
+- SQL
