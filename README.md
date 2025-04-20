@@ -1,14 +1,14 @@
-## Привет!👋
+## Hello!👋
 
-Я работаю на языке **JavaScript** и **TypeScript**, работаю преимущественно с **Node.js**. Использую **Nest.js**. ✨
+I'm a backend developer, writing mostly in TypeScript with Next.js and Express.js.
 
-Работал с базами данных: **MySQL**, **PostgreSQL**, **MongoSQL**. Использовал **TypeORM** для работы с ними в **Nest.js**. 💾
+## Technologies
 
-Использую **Docker** и **Docker Compose**. Создание и настройка **Dockerfile** и **Docker Compose** файлов. 🧗🏻
+-  **Programming Languages**: JavaScript, TypeScript, Python
+-  **DataBase**: MySQL, PostgreSQL, MongoDB
+-  **Cache**: Redis, Apache Kafka
+-  **Virtualization**: Docker, K8S
 
-## Другие технологии 📚
+## Other
 
--   **Redis** для очередей и кеширования.
--   **Jest** для тестирования. 🧪
--   Владею **React**. 🧠
--   Использовал **GraphQL** и **WebSocket** на **Nest.js**
+- Bash scripts
